@@ -1,14 +1,14 @@
 # SQL-Alchemy-code-challenge
-Restaurants-SQLAlchemy-Code-Challenge
+#Restaurants-SQLAlchemy-Code-Challenge
 project details
 
 This Python project implements a restaurant review system with a database backend using SQLAlchemy. It allows you to manage restaurants, customers, and reviews, as well as perform various operations related to them.
 
-Technologies Used
+#Technologies Used
 
 Python Alembic sqlalchemy
 
-Features
+##Features
 
 Restaurant Table: Defines the structure for storing restaurant details such as name, location, and contact information.
 Customer Table: Represents the menus available at each restaurant, containing information like menu name and the restaurant it belongs to.
@@ -25,7 +25,7 @@ Review System: Enable customers to leave detailed reviews for restaurants.
 
 Anagram Checker: Use the built-in anagram checker to find anagrams within a list of words.
 
-Database Schema
+##Database Schema
 
 The Restaurants Application uses a simple and effective database schema consisting of three tables:
 
@@ -46,11 +46,11 @@ price		customer_id		last_name
                         comments  |        +-------------+
                     | |
                     +--------------+
-Contributing
+###Contributing
 Contributions to the Restaurants Application are encouraged and welcome! If you have any suggestions, bug reports, or feature requests. If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request.
 
-License
+###License
 This project is licensed under the MIT License.
 
-Author
+###Author
 It is written by MASUD ABDI
